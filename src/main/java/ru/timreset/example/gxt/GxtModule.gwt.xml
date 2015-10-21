@@ -14,7 +14,6 @@
   <set-property name="locale" value="en_US,ru_RU"/>
 
   <!-- Inherit the core Web Toolkit stuff. -->
-
   <inherits name='com.google.gwt.activity.Activity'/>
   <inherits name='com.google.gwt.place.Place'/>
   <inherits name="com.google.gwt.inject.Inject"/>

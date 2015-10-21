@@ -27,7 +27,6 @@ public class StudentsServiceImpl extends BaseRemoteService implements StudentsSe
             student.setBirthday(new Date());
             students.add(student);
         }
-
     }
 
     @NotNull
