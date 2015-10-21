@@ -1,4 +1,4 @@
-Подготовка к запуску проекта [Тестирование GWT приложений архитектуры MVP](http://habrahabr.ru/post/246285/) [example.gwt.gxt.test](https://github.com/TimReset/example.gwt.gxt.test)
+Подготовка к запуску проекта ([Тестирование GWT приложений архитектуры MVP](http://habrahabr.ru/post/246285/) | [example.gwt.gxt.test](https://github.com/TimReset/example.gwt.gxt.test))
 ==========================================================================
 * `Подключаем библиотеку 'repo' в структуру проекта`:
 * `Ставим мейвен версии 3.X`:
